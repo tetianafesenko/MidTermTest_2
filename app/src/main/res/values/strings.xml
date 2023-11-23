@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MidTermTest_2</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="save">Save</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="todo">TODO</string>
+</resources>
