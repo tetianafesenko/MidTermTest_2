@@ -28,7 +28,7 @@
     <ImageView
         android:id="@+id/ivProductImage"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="205dp"
         android:layout_below="@id/btnTakePhoto"
         android:scaleType="fitXY"
         android:padding="16dp"
