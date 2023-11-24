@@ -6,4 +6,6 @@
     <string name="take_a_photo">Take a Photo</string>
     <string name="enter_product_name">Enter Product Name</string>
     <string name="todo">TODO</string>
+    <string name="show_history">Show History</string>
+    <string name="restock">Restock</string>
 </resources>
