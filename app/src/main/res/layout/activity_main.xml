@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/enter_product_name"
         android:layout_marginTop="30dp"
-        android:padding="16dp"/>
+        android:padding="18dp"/>
 
     <Button
         android:id="@+id/btnTakePhoto"
